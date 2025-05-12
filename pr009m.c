@@ -1,3 +1,4 @@
+//Однонаправленная связь через пайп между родительским и дочерним процессом
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
